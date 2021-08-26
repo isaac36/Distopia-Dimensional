@@ -3,4 +3,4 @@
  
  O jogo é sobre uma menina que fica presa em um sonho e tem que lutar contra um império distópico. 
  
- Video da Gameplay: https://www.youtube.com/watch?v=sJjiH7JhRBA&t=65s
+ [Video da Gameplay](https://www.youtube.com/watch?v=sJjiH7JhRBA&t=65s)
